@@ -1,0 +1,6 @@
+{
+  "name": "Думите – мост между езиците",
+  "description": "Интерактивен дигитален урок и езикова мисия за VII клас: Български език (домашни думи, заемки, чуждици) и English A1.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
