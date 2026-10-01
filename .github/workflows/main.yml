@@ -25,7 +25,7 @@ jobs:
           
 
       - name: Инсталиране на зависимостите
-        run: npm install
+        run: npm install --legacy-peer-deps
 
       - name: Изграждане на сайта
         run: npm run build
